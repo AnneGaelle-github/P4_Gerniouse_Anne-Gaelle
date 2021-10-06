@@ -268,8 +268,8 @@ a:hover {
     margin-top: 30px;
 }
 
-.voffset-lg {
-    margin-top: 80px;
+.marg-h2{
+    margin-bottom: 30px;
 }
 
 .row-no-gutters {
@@ -508,6 +508,7 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
+    margin-bottom: 18px;
 }
 
 .scrollToTop {
@@ -677,7 +678,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -737,13 +738,14 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    margin-bottom: 20px;
 }
 
 .portfolio-thumb {
     margin-bottom: 24px;
 }
 
-.portfolio-row {
+.portfolio- {
     margin-bottom: 44px;
     margin-top: 50px;
 }
