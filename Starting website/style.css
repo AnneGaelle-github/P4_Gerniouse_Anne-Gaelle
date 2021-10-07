@@ -434,7 +434,9 @@ nav .caret {
     margin: 6px -5px 0 0!important;
     float: right;
 }
-
+h1{
+    text-align: center;
+}
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
@@ -655,9 +657,7 @@ a {
     color: #575757!important;
 }
 
-.container {
-    max-width: 1000px;
-}
+
 
 .hero-bloc-text {
     font-size: 38px;
@@ -679,6 +679,7 @@ a {
 
 p {
     font-size: 14px;
+    font-weight: 600;
 }
 
 .tight-width-whitespace {
@@ -777,7 +778,8 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #ffffff!important;
+    text-align: center;
 }
 
 .btn-atomic-tangerine {
