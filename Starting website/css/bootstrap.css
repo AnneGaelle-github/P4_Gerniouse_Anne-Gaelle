@@ -2068,7 +2068,11 @@ pre code {
     padding-right: 15px;
     padding-left: 15px
 }
-
+.col-sm-4 {
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+}
 .col-xs-1,
 .col-xs-10,
 .col-xs-11,
@@ -2328,7 +2332,8 @@ pre code {
         width: 41.66666667%
     }
     .col-sm-4 {
-        width: 33.33333333%
+        width: 100%;
+        text-align: center;
     }
     .col-sm-3 {
         width: 25%
